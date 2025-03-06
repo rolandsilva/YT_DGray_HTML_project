@@ -11,6 +11,17 @@ body {
     border-right: 1px solid #333;
 }
 
+.HTML_lesson_banner {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 2rem;
+    text-align: center;
+    margin: 0px 0 0px 0;
+    margin: 0 auto;
+    background-color: rgb(43, 173, 199);
+    border: 3px solid black;
+}
+
 th,
 td,
 caption {
