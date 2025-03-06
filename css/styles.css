@@ -35,3 +35,42 @@ caption {
     border-collapse: separate;
     padding: 0.5rem;
 }
+
+details {
+    border: 4px solid lightblue;
+    padding: 10px;
+    width: 300px;
+}
+
+summary {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+table,
+tr,
+th,
+td,
+caption {
+    border: 4px solid lightgray;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    /* padding: 0.5rem; */
+}
+
+caption {
+    color: red;
+    font-weight: bold;
+}
+
+th {
+    font-weight: 600;
+}
+
+.tbody_th {
+    font-weight: normal;
+}
+
+/* td {
+    font-weight: normal;
+} */
