@@ -22,6 +22,11 @@ body {
     border: 3px solid black;
 }
 
+img {
+
+    border: 3px solid black;
+}
+
 th,
 td,
 caption {
